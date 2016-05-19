@@ -1,3 +1,3 @@
-This is a test directory
+This is a test directory, but it was written in the tester branch!
 
-woo!
+wow!
